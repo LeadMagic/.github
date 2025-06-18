@@ -1,3 +1,6 @@
+<div align="center">
+
+```
 ██╗     ███████╗ █████╗ ██████╗ ███╗   ███╗ █████╗  ██████╗ ██╗ ██████╗
 ██║     ██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗██╔════╝ ██║██╔════╝
 ██║     █████╗  ███████║██║  ██║██╔████╔██║███████║██║  ███╗██║██║     
@@ -5,8 +8,6 @@
 ███████╗███████╗██║  ██║██████╔╝██║ ╚═╝ ██║██║  ██║╚██████╔╝██║╚██████╗
 ╚══════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝
 ```
-
-<div align="center">
 
 # 🚀 Transform Your Prospecting Data Into Customers
 
@@ -27,9 +28,15 @@
 
 </div>
 
+<div align="center">
+
 ## 🎯 **What We Do**
 
+</div>
+
 LeadMagic transforms stale prospect data into accurate, actionable customer intelligence. We provide **99% accurate** B2B data enrichment with real-time validation, helping sales teams convert prospects into customers faster than ever.
+
+<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -41,22 +48,29 @@ LeadMagic transforms stale prospect data into accurate, actionable customer inte
 └─────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
+<div align="center">
+
 ## ⚡ **Cold Email CLI - Our Open Source Project**
+
+</div>
 
 We're actively developing the **Cold Email CLI** - a powerful command-line tool that integrates seamlessly with LeadMagic's data enrichment capabilities.
 
 <div align="center">
 
 [![Cold Email CLI](https://img.shields.io/badge/🔗_View_Project-Cold_Email_CLI-red?style=for-the-badge&logo=github)](https://github.com/LeadMagic/cold-email-cli)
+[![Documentation](https://img.shields.io/badge/📖_CLI_Docs-Get_Syntax-blue?style=for-the-badge&logo=book)](https://docs.leadmagic.io/cli)
+[![Quick Start](https://img.shields.io/badge/��_Quick_Start-Setup_Guide-green?style=for-the-badge&logo=rocket)](https://docs.leadmagic.io/cli/quickstart)
+
+### 🌟 **Key Features:**
+**🔍 Data Enrichment Integration** • **📧 Email Campaign Management** • **📊 Analytics & Reporting**  
+**🎯 List Management** • **⚡ CLI Efficiency** • **🔌 API Integration**
 
 </div>
 
-### 🌟 **Key Features:**
-- **🔍 Data Enrichment Integration** - Powered by LeadMagic API
-- **📧 Email Campaign Management** - Full lifecycle automation
-- **📊 Analytics & Reporting** - Real-time performance metrics
-- **🎯 List Management** - Smart segmentation and targeting
-- **⚡ CLI Efficiency** - Lightning-fast workflow automation
+<div align="center">
 
 ```bash
 # Quick Start with Cold Email CLI
@@ -66,48 +80,40 @@ cold-email enrich --source contacts.csv --output enriched.csv
 cold-email campaign launch --list enriched.csv
 ```
 
-## 🛠️ **Core Features**
+**📖 [Full CLI Documentation & Syntax](https://docs.leadmagic.io/cli) | 🚀 [Quick Start Guide](https://docs.leadmagic.io/cli/quickstart)**
 
-### 📧 **Email Finder**
-- **99% Accuracy Rate** - Industry-leading precision
-- **Pay Only for Valid Emails** - No waste, maximum ROI  
-- **Catch-All Validation System** - Advanced verification
-
-### 📱 **Mobile Finder**  
-- **Highest Accuracy** in the industry
-- **B2B Profile & Email Search** - Multiple search methods
-- **Pay Only for Found Numbers** - Cost-effective solution
-
-### ✅ **Email Validation**
-- **Gray List Protection** - Avoid spam traps
-- **High Rate Limits** - Scale your operations  
-- **Real-time Verification** - Instant results
-
-### 🏢 **Company Intelligence**
-- **Technographics & Ad Spend** - Deep company insights
-- **Competitor Analysis** - Market intelligence
-- **Headcount & Growth Data** - Sizing opportunities
-
-### 👤 **Profile Enrichment**
-- **Job Change Tracking** - Catch opportunities
-- **Real-time B2B Updates** - Always current data
-- **Social Engagement Insights** - Behavioral intelligence
-
-### 💼 **Jobs Intelligence**
-- **Direct from Company Job Boards** - Fresh opportunities
-- **Smart Alerts** - Job title & description matching
-- **Company-specific Tracking** - Targeted monitoring
-
-## 🤝 **Official Partners**
-
-We work closely with leading sales and marketing platforms to ensure seamless integration and maximum efficiency for your outreach campaigns.
+</div>
 
 <div align="center">
+
+## 🛠️ **Core Features**
+
+</div>
+
+<div align="center">
+
+| 📧 **Email Finder** | 📱 **Mobile Finder** | ✅ **Email Validation** |
+|:---:|:---:|:---:|
+| **99% Accuracy Rate** | **Highest Accuracy** | **Gray List Protection** |
+| Pay Only for Valid Emails | B2B Profile & Email Search | High Rate Limits |
+| Catch-All Validation System | Pay Only for Found Numbers | Real-time Verification |
+
+| 🏢 **Company Intelligence** | 👤 **Profile Enrichment** | 💼 **Jobs Intelligence** |
+|:---:|:---:|:---:|
+| **Technographics & Ad Spend** | **Job Change Tracking** | **Company Job Boards** |
+| Competitor Analysis | Real-time B2B Updates | Smart Alerts |
+| Headcount & Growth Data | Social Engagement Insights | Company-specific Tracking |
+
+</div>
+
+<div align="center">
+
+## 🤝 **Official Partners**
 
 ### **🎯 Sales Engagement Platforms**
 
 | Partner Type | Integration Focus | Status |
-|:-------:|:-----------:|:------:|
+|:---:|:---:|:---:|
 | ![Data Platforms](https://img.shields.io/badge/Data_Platforms-Certified_Partners-6366f1?style=for-the-badge&logo=database) | **Data Enrichment** | ✅ Active |
 | ![Lead Intelligence](https://img.shields.io/badge/Lead_Intelligence-Strategic_Partners-ff6b35?style=for-the-badge&logo=rocket) | **Lead Intelligence** | ✅ Active |
 | ![Email Automation](https://img.shields.io/badge/Email_Automation-Integration_Partners-4f46e5?style=for-the-badge&logo=mail) | **Email Automation** | ✅ Active |
@@ -116,17 +122,19 @@ We work closely with leading sales and marketing platforms to ensure seamless in
 
 ### **📊 CRM & Sales Tools**
 
-[![CRM Systems](https://img.shields.io/badge/CRM_Systems-Native_Integration-00a1e0?style=for-the-badge&logo=database)](https://leadmagic.io)
-[![Growth Platforms](https://img.shields.io/badge/Growth_Platforms-Full_Integration-ff7a59?style=for-the-badge&logo=chart-line)](https://leadmagic.io)
-[![Sales Pipeline](https://img.shields.io/badge/Sales_Pipeline-CRM_Integration-1155cc?style=for-the-badge&logo=pipeline)](https://leadmagic.io)
+[![CRM Systems](https://img.shields.io/badge/CRM_Systems-Native_Integration-00a1e0?style=for-the-badge&logo=database)](https://docs.leadmagic.io/integrations/crm)
+[![Growth Platforms](https://img.shields.io/badge/Growth_Platforms-Full_Integration-ff7a59?style=for-the-badge&logo=chart-line)](https://docs.leadmagic.io/integrations)
+[![Sales Pipeline](https://img.shields.io/badge/Sales_Pipeline-CRM_Integration-1155cc?style=for-the-badge&logo=pipeline)](https://docs.leadmagic.io/integrations)
 
 ### **⚡ Sales Engagement**
 
-[![Outreach Tools](https://img.shields.io/badge/Outreach_Tools-Sales_Engagement-5865f2?style=for-the-badge&logo=send)](https://leadmagic.io)
-[![Cadence Platforms](https://img.shields.io/badge/Cadence_Platforms-Sequence_Integration-6366f1?style=for-the-badge&logo=repeat)](https://leadmagic.io)
-[![Engagement Suite](https://img.shields.io/badge/Engagement_Suite-Full_Platform-22c55e?style=for-the-badge&logo=handshake)](https://leadmagic.io)
+[![Outreach Tools](https://img.shields.io/badge/Outreach_Tools-Sales_Engagement-5865f2?style=for-the-badge&logo=send)](https://docs.leadmagic.io/integrations/outreach)
+[![Cadence Platforms](https://img.shields.io/badge/Cadence_Platforms-Sequence_Integration-6366f1?style=for-the-badge&logo=repeat)](https://docs.leadmagic.io/integrations)
+[![Engagement Suite](https://img.shields.io/badge/Engagement_Suite-Full_Platform-22c55e?style=for-the-badge&logo=handshake)](https://docs.leadmagic.io/integrations)
 
 </div>
+
+<div align="center">
 
 ## 💰 **Credit-Based Pricing**
 
@@ -143,25 +151,21 @@ We work closely with leading sales and marketing platforms to ensure seamless in
 ╰─────────────────────────────────────────────────────────────╯
 ```
 
+</div>
+
+<div align="center">
+
 ## 📊 **Why Choose LeadMagic?**
 
-### 🎯 **Accuracy On-Demand**
-> "Never struggle with incomplete records, incorrect addresses, and stale contact information again."
+| 🎯 **Accuracy On-Demand** | ⚡ **Real-Time Processing** | 🔒 **Enterprise Security** |
+|:---:|:---:|:---:|
+| Never struggle with incomplete records | Instant Data Enrichment | GDPR Compliant |
+| Industry-leading precision | Live Validation | SOC 2 Certified |
+| Always current data | 400 req/min API limits | Gray List Protection |
 
-### ⚡ **Real-Time Processing**
-- **Instant Data Enrichment** - No waiting
-- **Live Validation** - Always current
-- **API Rate Limits: 400 req/min** - Scale with confidence
+</div>
 
-### 🔒 **Enterprise Security**
-- **GDPR Compliant** - European data protection
-- **SOC 2 Certified** - Enterprise security standards
-- **Gray List Protection** - Reputation management
-
-### 🤝 **Partner Ecosystem**
-- **Native Integrations** - Seamless workflow integration
-- **Partner Support** - Dedicated technical assistance
-- **Joint Solutions** - Combined platform capabilities
+<div align="center">
 
 ## 🏆 **Customer Success Stories**
 
@@ -177,9 +181,11 @@ We work closely with leading sales and marketing platforms to ensure seamless in
 > *"Pay-per-use model is perfect for our needs. The platform shows us companies visiting our website AND individual contact details in real-time. Incredible targeting capability."*  
 > **— Marketing Director**
 
-## 🚀 **Get Started**
+</div>
 
 <div align="center">
+
+## 🚀 **Get Started**
 
 ### **Ready to Transform Your Prospecting?**
 
@@ -191,6 +197,8 @@ We work closely with leading sales and marketing platforms to ensure seamless in
 </div>
 
 ---
+
+<div align="center">
 
 ## 📞 **Support & Resources**
 
@@ -207,14 +215,16 @@ We work closely with leading sales and marketing platforms to ensure seamless in
 
 ## 🔧 **Developer Resources**
 
-Our comprehensive developer ecosystem provides everything you need:
+### **📖 [Complete API Documentation](https://docs.leadmagic.io) | 🚀 [Quick Start Guide](https://docs.leadmagic.io/quickstart) | ⚡ [CLI Documentation](https://docs.leadmagic.io/cli)**
 
-- **🔗 RESTful API** - Industry standard with 400 req/min limits
-- **⚡ Cold Email CLI** - Open source command-line tool
-- **🔌 Webhook Support** - Real-time notifications  
-- **📦 SDKs Available** - Multiple programming languages
-- **📖 Comprehensive Docs** - Get started in minutes
-- **🤝 Partner APIs** - Direct integrations with major platforms
+**🔗 RESTful API** - Industry standard with 400 req/min limits  
+**⚡ Cold Email CLI** - Open source command-line tool  
+**🔌 Webhook Support** - Real-time notifications  
+**📦 SDKs Available** - Multiple programming languages  
+**📖 Comprehensive Docs** - Get started in minutes  
+**🤝 Partner APIs** - Direct integrations with major platforms
+
+</div>
 
 ---
 
