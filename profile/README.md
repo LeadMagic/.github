@@ -3,256 +3,144 @@
 ```
 ██╗     ███████╗ █████╗ ██████╗ ███╗   ███╗ █████╗  ██████╗ ██╗ ██████╗
 ██║     ██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗██╔════╝ ██║██╔════╝
-██║     █████╗  ███████║██║  ██║██╔████╔██║███████║██║  ███╗██║██║     
-██║     ██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══██║██║   ██║██║██║     
+██║     █████╗  ███████║██║  ██║██╔████╔██║███████║██║  ███╗██║██║
+██║     ██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══██║██║   ██║██║██║
 ███████╗███████╗██║  ██║██████╔╝██║ ╚═╝ ██║██║  ██║╚██████╔╝██║╚██████╗
 ╚══════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝
 ```
 
-# 🚀 Transform Your Prospecting Data Into Customers
+### The B2B Data API for AI Agents & GTM Engineers
 
-### **The Most Accurate Real-Time B2B Data Enrichment Platform**
-### **💪 Fully Bootstrapped • 📈 1,200+ Happy Customers • 🎯 Primary Inbox Focused**
+**API-first B2B data, anywhere you build.** Turn raw names, domains, and professional profiles into workflow-ready data — via REST, CLI, or MCP.
 
-[![Website](https://img.shields.io/badge/🌐_Website-leadmagic.io-blue?style=for-the-badge)](https://leadmagic.io)
-[![API Docs](https://img.shields.io/badge/📚_API_Docs-docs.leadmagic.io-green?style=for-the-badge)](https://docs.leadmagic.io)
-[![G2 Reviews](https://img.shields.io/badge/⭐_G2_Reviews-High_Performer-orange?style=for-the-badge)](https://leadmagic.io)
-[![Cold Email CLI](https://img.shields.io/badge/⚡_Cold_Email_CLI-Open_Source-red?style=for-the-badge)](https://github.com/LeadMagic/cold-email-cli)
+[![Website](https://img.shields.io/badge/Website-leadmagic.io-2563eb?style=for-the-badge)](https://leadmagic.io)
+[![API Docs](https://img.shields.io/badge/API_Docs-leadmagic.io%2Fdocs-16a34a?style=for-the-badge)](https://leadmagic.io/docs)
+[![Hosted MCP](https://img.shields.io/badge/Hosted_MCP-mcp.leadmagic.io-7c3aed?style=for-the-badge)](https://mcp.leadmagic.io/mcp)
+[![Get API Key](https://img.shields.io/badge/Get_API_Key-100_Free_Credits-f97316?style=for-the-badge)](https://app.leadmagic.io/sign-up)
 
----
-
-### **Clean Your Data • Use Our APIs • Land in Primary Inbox Every Time**
-
-🏢 **1,200+ Customers** • **Fortune 500 Companies** • **Bootstrapped Success** • **Sales Teams Worldwide**
-
----
-
-</div>
-
-<div align="center">
-
-## 🎯 What We Do
-
-</div>
-
-LeadMagic transforms stale prospect data into **99% accurate**, deliverable customer intelligence that **lands in the primary inbox**. We're a fully bootstrapped company helping 1,200+ customers get back to reaching prospects where they actually read emails.
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  📤 Upload Your Data   →   🧹 AI Cleaning   →   📧 Primary Inbox │
-│                                                             │
-│  • Stale spreadsheets      • Real-time validation      • Land in primary  │
-│  • Invalid emails          • Data enrichment           • Avoid spam folder │
-│  • Broken contacts         • Email verification        • Reach prospects   │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### **Fully Bootstrapped Company • 1,200+ Customers • No VC Pressure = Pure Customer Focus**
-
-</div>
-
-<div align="center">
-
-## ⚡ Cold Email CLI - Our Open Source Project
-
-</div>
-
-We're actively developing the **Cold Email CLI** - a powerful command-line tool for managing cold email campaigns with focus on deliverability and primary inbox placement.
-
-<div align="center">
-
-[![Cold Email CLI](https://img.shields.io/badge/🔗_View_Project-Cold_Email_CLI-red?style=for-the-badge&logo=github)](https://github.com/LeadMagic/cold-email-cli)
-[![Documentation](https://img.shields.io/badge/📖_CLI_Docs-Get_Syntax-blue?style=for-the-badge&logo=book)](https://docs.leadmagic.io/cli)
-[![Quick Start](https://img.shields.io/badge/🚀_Quick_Start-Setup_Guide-green?style=for-the-badge&logo=rocket)](https://docs.leadmagic.io/cli/quickstart)
-
-### 🌟 Key Features:
-**📧 Email Campaign Management** • **📊 Deliverability Analytics** • **🎯 List Management**  
-**⚡ CLI Efficiency** • **🔌 API Integration** • **📧 Primary Inbox Focus**
-
-</div>
-
-<div align="center">
-
-```bash
-# Quick Start with Cold Email CLI
-npm install -g cold-email-cli
-cold-email init
-cold-email campaign create --name "Q1 Outreach"
-cold-email validate --check-deliverability
-cold-email campaign launch --primary-focus
-```
-
-**📖 [Full CLI Documentation & Syntax](https://docs.leadmagic.io/cli) | 🚀 [Quick Start Guide](https://docs.leadmagic.io/cli/quickstart) | 🎯 [Primary Inbox Guide](https://docs.leadmagic.io/primary-inbox)**
-
-</div>
-
-<div align="center">
-
-## 🛠️ Core Features
-
-</div>
-
-<div align="center">
-
-| �� **Email Finder** | 📱 **Mobile Finder** | ✅ **Email Validation** |
-|:---:|:---:|:---:|
-| **99% Accuracy Rate** | **Highest Accuracy** | **Primary Inbox Protection** |
-| Pay Only for Valid Emails | B2B Profile & Email Search | High Rate Limits |
-| Catch-All Validation System | Pay Only for Found Numbers | Real-time Verification |
-
-| 🏢 **Company Intelligence** | 👤 **Profile Enrichment** | 💼 **Jobs Intelligence** |
-|:---:|:---:|:---:|
-| **Technographics & Ad Spend** | **Job Change Tracking** | **Company Job Boards** |
-| Competitor Analysis | Real-time B2B Updates | Smart Alerts |
-| Headcount & Growth Data | Social Engagement Insights | Company-specific Tracking |
-
-### **All Features Designed for Primary Inbox Delivery**
-
-</div>
-
-<div align="center">
-
-## 🤝 Official Partners
-
-### **Sales Engagement Platforms**
-
-| Partner Type | Integration Focus | Status |
-|:---:|:---:|:---:|
-| ![Data Platforms](https://img.shields.io/badge/Data_Platforms-Certified_Partners-6366f1?style=for-the-badge&logo=database) | **Clean Data for Primary** | ✅ Active |
-| ![Lead Intelligence](https://img.shields.io/badge/Lead_Intelligence-Strategic_Partners-ff6b35?style=for-the-badge&logo=rocket) | **Validated Prospects** | ✅ Active |
-| ![Email Automation](https://img.shields.io/badge/Email_Automation-Integration_Partners-4f46e5?style=for-the-badge&logo=mail) | **Primary Deliverability** | ✅ Active |
-| ![Cold Email](https://img.shields.io/badge/Cold_Email-Premium_Partners-2563eb?style=for-the-badge&logo=target) | **Primary Inbox Campaigns** | ✅ Active |
-| ![Sales Automation](https://img.shields.io/badge/Sales_Automation-Technology_Partners-059669?style=for-the-badge&logo=settings) | **Clean Data Workflows** | ✅ Active |
-
-### **CRM & Sales Tools**
-
-[![CRM Systems](https://img.shields.io/badge/CRM_Systems-Clean_Data_Integration-00a1e0?style=for-the-badge&logo=database)](https://docs.leadmagic.io/integrations/crm)
-[![Growth Platforms](https://img.shields.io/badge/Growth_Platforms-Primary_Ready_Data-ff7a59?style=for-the-badge&logo=chart-line)](https://docs.leadmagic.io/integrations)
-[![Sales Pipeline](https://img.shields.io/badge/Sales_Pipeline-Validated_Contacts-1155cc?style=for-the-badge&logo=pipeline)](https://docs.leadmagic.io/integrations)
-
-### **Sales Engagement**
-
-[![Outreach Tools](https://img.shields.io/badge/Outreach_Tools-Primary_Delivery-5865f2?style=for-the-badge&logo=send)](https://docs.leadmagic.io/integrations/outreach)
-[![Cadence Platforms](https://img.shields.io/badge/Cadence_Platforms-Clean_Sequences-6366f1?style=for-the-badge&logo=repeat)](https://docs.leadmagic.io/integrations)
-[![Engagement Suite](https://img.shields.io/badge/Engagement_Suite-Primary_Focus-22c55e?style=for-the-badge&logo=handshake)](https://docs.leadmagic.io/integrations)
-
-</div>
-
-<div align="center">
-
-## 💰 Credit-Based Pricing
-
-```
-╭─────────────────────────────────────────────────────────────╮
-│              🎯 Bootstrapped = Better Prices                 │
-├─────────────────────────────────────────────────────────────┤
-│  💎 10,000 Credits  → $99.99/month  → $0.01 per credit     │
-│  🚀 30,000 Credits  → $259.99/month → $0.0087 per credit   │
-│                                                             │
-│  ✅ All Products Included   ✅ API Access                   │
-│  ✅ No Lock-in Contracts   ✅ 100 Free Credits to Start    │
-│  ✅ Cold Email CLI Access  ✅ Primary Inbox Focus          │
-│  ✅ 1,200+ Happy Customers ✅ Fully Bootstrapped Success   │
-╰─────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
-<div align="center">
-
-## 📊 Why Choose LeadMagic?
-
-| 🎯 **Primary Inbox Focused** | ⚡ **Real-Time Processing** | 🔒 **Enterprise Security** |
-|:---:|:---:|:---:|
-| Stop landing in spam folders | Instant Data Enrichment | GDPR Compliant |
-| Industry-leading deliverability | Live Validation | SOC 2 Certified |
-| Clean data = Primary delivery | 400 req/min API limits | Reputation Protection |
-
-### **Fully Bootstrapped • No VC Pressure • Pure Customer Focus**
-
-</div>
-
-<div align="center">
-
-## 🏆 Customer Success Stories
-
-> *"We went from 20% spam folder to 95% primary inbox delivery. LeadMagic's data cleaning completely transformed our email campaigns. Our response rates increased 300%!"*  
-> **— Enterprise SaaS Sales Director**
-
-> *"Finally! Clean data that actually works. LeadMagic helped us get back to the primary inbox. Our cold email campaigns now have 8x better open rates."*  
-> **— Growth Marketing Manager**
-
-> *"The Cold Email CLI integration cleaned our campaign management workflow. Now we consistently land in primary inboxes instead of spam. Game changer!"*  
-> **— Sales Operations Lead**
-
-> *"1,200+ customers can't be wrong. LeadMagic's focus on primary inbox delivery made us believers. Our email deliverability is now industry-leading."*  
-> **— Revenue Operations Director**
-
-### **Join 1,200+ Customers Reaching Primary Inboxes**
-
-</div>
-
-<div align="center">
-
-## 🚀 Get Started
-
-### **Ready to Transform Your Prospecting & Reach Primary Inboxes?**
-
-[![Start Free Trial](https://img.shields.io/badge/🎯_Start_Free_Trial-Get_100_Credits-brightgreen?style=for-the-badge&logo=rocket)](https://leadmagic.io)
-[![View Documentation](https://img.shields.io/badge/📖_Documentation-API_Reference-blue?style=for-the-badge&logo=book)](https://docs.leadmagic.io)
-[![Contact Sales](https://img.shields.io/badge/💬_Contact_Sales-Get_Demo-orange?style=for-the-badge&logo=calendar)](https://leadmagic.io)
-[![Cold Email CLI](https://img.shields.io/badge/⚡_Cold_Email_CLI-Download_Now-red?style=for-the-badge&logo=github)](https://github.com/LeadMagic/cold-email-cli)
+**One API key. Every workflow.**
+Direct REST calls · CLI scripts · Clay waterfalls · Cursor, Claude, ChatGPT, and any MCP-compatible agent.
 
 </div>
 
 ---
 
+## What we do
+
+LeadMagic turns cold prospect data into workflow-ready B2B intelligence. We're a bootstrapped company building the data layer that GTM engineers and AI agents reach for first — one API key, one billing surface, and three ways to call it.
+
+```
+ ┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
+ │  Your inputs     │ ──▶ │  LeadMagic API   │ ──▶ │  Workflow-ready  │
+ │  names · domains │     │  REST · CLI · MCP│     │  verified data   │
+ │  profile URLs    │     │  sub-200 ms      │     │  clean · current │
+ └──────────────────┘     └──────────────────┘     └──────────────────┘
+```
+
+**What you get:** verified work emails, direct-dial mobile numbers, company firmographics, funding and hiring signals, B2B profile enrichment, and deliverability scoring — all pay-only-for-valid-results.
+
+---
+
+## Three ways to build with LeadMagic
+
+Pick the surface that fits your workflow. Every one of them reads from the same data layer and the same API key.
+
+| Surface | When to use it | Start here |
+| --- | --- | --- |
+| **REST API** | Server-to-server integrations, custom products, CI pipelines. | [`leadmagic.io/docs`](https://leadmagic.io/docs) · [`leadmagic-openapi`](https://github.com/LeadMagic/leadmagic-openapi) |
+| **CLI** | Ad-hoc enrichment, CSV scans, bulk jobs from your terminal. | [`leadmagic.io/docs`](https://leadmagic.io/docs) |
+| **Hosted MCP** | AI agents and IDE assistants — Cursor, Claude, ChatGPT, VS Code, Windsurf, and more. | [`mcp.leadmagic.io/mcp`](https://mcp.leadmagic.io/mcp) · [`leadmagic-cursor-plugin`](https://github.com/LeadMagic/leadmagic-cursor-plugin) |
+
+### Using LeadMagic with AI clients
+
+The hosted MCP at `https://mcp.leadmagic.io/mcp` speaks streamable HTTP and supports OAuth sign-in (with Dynamic Client Registration), a static public OAuth client, and API-key headers for locked-down environments. See [`mcp.leadmagic.io/clients`](https://mcp.leadmagic.io/clients) for per-client install snippets — today we publish snippets for Cursor, Claude Desktop / Code / claude.ai, ChatGPT Developer Mode, VS Code / GitHub Copilot, Windsurf, Zed, Cline, Roo Code, OpenCode, Gemini CLI, JetBrains IDEs, Amazon Q, GitHub Copilot Coding Agent, Continue, Amp (Sourcegraph), Augment, and the Vercel AI SDK.
+
+---
+
+## Core capabilities
+
+Every capability below is available through REST, CLI, and MCP. Full reference lives at [`leadmagic.io/docs`](https://leadmagic.io/docs).
+
 <div align="center">
 
-## 📞 Support & Resources
-
-```
-🌐 Website:        https://leadmagic.io
-📚 Documentation:  https://docs.leadmagic.io  
-📧 Support:        support@leadmagic.io
-💬 Sales:          Book a demo on our website
-⚡ Cold Email CLI:  https://github.com/LeadMagic/cold-email-cli
-🤝 Partner Portal: partners@leadmagic.io
-🎯 Primary Guide:  https://docs.leadmagic.io/primary-inbox
-🐦 Twitter:        @LeadMagicIO
-💼 LinkedIn:       /company/leadmagic
-```
-
-## 🔧 Developer Resources
-
-### **📖 [Complete API Documentation](https://docs.leadmagic.io) | 🚀 [Quick Start Guide](https://docs.leadmagic.io/quickstart) | ⚡ [CLI Documentation](https://docs.leadmagic.io/cli) | 🎯 [Primary Inbox Guide](https://docs.leadmagic.io/primary-inbox)**
-
-**🔗 RESTful API** - Industry standard with 400 req/min limits  
-**⚡ Cold Email CLI** - Open source command-line tool  
-**🔌 Webhook Support** - Real-time notifications  
-**📦 SDKs Available** - Multiple programming languages  
-**📖 Comprehensive Docs** - Get started in minutes  
-**🤝 Partner APIs** - Direct integrations with major platforms  
-**🎯 Primary Focus** - All tools designed for inbox delivery
+| Contact data | Company data | Intent & signals |
+|:---:|:---:|:---:|
+| **Email Finder** — verified work emails from name + domain | **Company Enrichment** — firmographics, technographics, funding | **Hiring Signals** — active jobs across company career pages |
+| **Email Validation** — catch-all detection and deliverability scoring | **Competitor Search** — related companies by domain | **Ad Intelligence** — search and inspect live ad creatives |
+| **Mobile Finder** — direct-dial numbers for decision makers | **Role Finder** — find the person holding a role at a company | **Job-Change Detection** — notice when contacts move |
+| **Personal Email Finder** — consumer email lookup when work bounces | **Employee Finder** — enrich teams by company domain | **URL → Markdown** — clean page text built for LLM pipelines |
 
 </div>
 
 ---
 
+## Pricing in one line
+
+Credit-based. **1 credit = 1 enrichment.** You only pay for valid results, unused credits roll over, and there are no annual contracts. Start with **100 free credits — no credit card required**. Full pricing lives at [`leadmagic.io/pricing`](https://leadmagic.io/pricing).
+
+---
+
+## Integrations
+
+LeadMagic ships first-class integrations with the tools GTM teams already use — and works inside any AI client that speaks MCP.
+
+**GTM and data platforms:** Clay · Apollo · Instantly · Smartlead · Databar · Salesforge · n8n · Zapier · Make
+**AI clients (via hosted MCP):** Cursor · Claude · ChatGPT · VS Code / Copilot · Windsurf · Zed · OpenCode · Gemini CLI · and more
+
+If you're wiring LeadMagic into a platform we don't list yet, the REST API is the same one everything else is built on — grab a key and go.
+
+---
+
+## Why teams pick LeadMagic
+
+- **Pay only for valid results.** Credit-based billing, no charges for null lookups on the "free-if-not-found" endpoints.
+- **One API, every surface.** The same data powers REST, CLI, MCP, and our partner integrations. One key to manage, one invoice to reconcile.
+- **Built for AI-native workflows.** Hosted MCP with OAuth sign-in, per-client install snippets, and an [official Cursor plugin](https://github.com/LeadMagic/leadmagic-cursor-plugin) that ships rules, skills, an enrichment agent, and commands together.
+- **Bootstrapped and customer-funded.** No outside investors, no roadmap hostage to a board — the product moves where customers push it.
+- **GDPR-compliant data handling.** See the FAQ on [`leadmagic.io`](https://leadmagic.io) for specifics, or reach `security@leadmagic.io` for a privacy/security questionnaire.
+
+---
+
+## Open-source and public surfaces
+
+We publish a small set of public repos so you can read, audit, and vendor our integrations without guessing:
+
+| Repo | What it is |
+| --- | --- |
+| [`leadmagic-openapi`](https://github.com/LeadMagic/leadmagic-openapi) | OpenAPI 3.1 snapshot, `llms.txt` / `llms-full.txt`, and a live smoke-test script. |
+| [`leadmagic-cursor-plugin`](https://github.com/LeadMagic/leadmagic-cursor-plugin) | Official Cursor plugin — OAuth-default hosted MCP, rules, skills, enrichment agent, and commands. |
+
+For SDK-level integrations (Node, Python, Go) and platform connectors, see the links in [`leadmagic.io/docs`](https://leadmagic.io/docs).
+
+---
+
+## Security and responsible use
+
+We take brand impersonation and supply-chain safety seriously. If someone publishes a "LeadMagic" skill, plugin, MCP server, or CLI from an owner that isn't `github.com/LeadMagic`, it is not from us — see the allow-list and reporting guidance in [`leadmagic-openapi/SECURITY.md`](https://github.com/LeadMagic/leadmagic-openapi/blob/main/SECURITY.md).
+
+For vulnerability reports: [`security@leadmagic.io`](mailto:security@leadmagic.io).
+
+---
+
+## Get in touch
+
 <div align="center">
 
-### **Get Back to the Primary Inbox Today**
+| Channel | Link |
+| --- | --- |
+| Website | [leadmagic.io](https://leadmagic.io) |
+| Documentation | [leadmagic.io/docs](https://leadmagic.io/docs) |
+| Dashboard | [app.leadmagic.io](https://app.leadmagic.io) |
+| Hosted MCP | [mcp.leadmagic.io/mcp](https://mcp.leadmagic.io/mcp) |
+| Support | [support@leadmagic.io](mailto:support@leadmagic.io) |
+| Security | [security@leadmagic.io](mailto:security@leadmagic.io) |
+| Partners | [partners@leadmagic.io](mailto:partners@leadmagic.io) |
+| X / Twitter | [@leadmagichq](https://twitter.com/leadmagichq) |
 
-*Unlock the power of accurate emails and mobile numbers, validate your data seamlessly, automate your outreach with our Cold Email CLI, and reach prospects where they actually read emails.*
+[![Get your API key](https://img.shields.io/badge/Get_your_API_key-100_Free_Credits-16a34a?style=for-the-badge&logo=rocket)](https://app.leadmagic.io/sign-up)
+[![Read the docs](https://img.shields.io/badge/Read_the_docs-leadmagic.io%2Fdocs-2563eb?style=for-the-badge&logo=book)](https://leadmagic.io/docs)
+[![Install Cursor plugin](https://img.shields.io/badge/Install-LeadMagic_Cursor_Plugin-7c3aed?style=for-the-badge&logo=cursor)](https://github.com/LeadMagic/leadmagic-cursor-plugin)
 
-### **💪 Fully Bootstrapped • 📈 1,200+ Happy Customers • 🎯 Primary Inbox Experts**
-
-**© 2025 LeadMagic. All Rights Reserved.**
-
-[![Website](https://img.shields.io/badge/leadmagic.io-Visit_Now-blue?style=flat-square)](https://leadmagic.io) 
-[![API](https://img.shields.io/badge/docs.leadmagic.io-API_Docs-green?style=flat-square)](https://docs.leadmagic.io)
-[![CLI](https://img.shields.io/badge/Cold_Email_CLI-Open_Source-red?style=flat-square)](https://github.com/LeadMagic/cold-email-cli)
+**© 2026 LeadMagic. All rights reserved.**
 
 </div>
