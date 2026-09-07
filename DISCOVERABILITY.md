@@ -20,3 +20,7 @@ These parameters attribute visits if the destination analytics captures them; th
 Verify linked pages, local paths, and published package contents. Update generated READMEs through their source generators. Prefer links to current pricing and entitlement documentation over duplicated plan tables. Keep archive notices prominent and avoid implying active support or third-party endorsement. Do not add keyword lists, fabricated badges, performance promises, or unverified compatibility claims.
 
 References: [Google SEO starter guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide), [GitHub repository topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics).
+
+## Brand icon
+
+The shared README icon is stored at `profile/assets/leadmagic.svg`, copied from [the official LeadMagic icon](https://leadmagic.io/logo/icon.svg). Use descriptive alt text and explicit 64 × 64 dimensions. Plugin manifests retain local icon files where required; the n8n node and credential icons ship with their package. Keep original artwork intact and review appearance on light and dark backgrounds before replacing it.

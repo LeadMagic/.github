@@ -1,5 +1,7 @@
 # LeadMagic: B2B Data Enrichment APIs and Developer Tools
 
+<img src="https://raw.githubusercontent.com/LeadMagic/.github/main/profile/assets/leadmagic.svg" width="64" height="64" alt="LeadMagic logo">
+
 LeadMagic provides [B2B data enrichment APIs](https://leadmagic.io/product/enrichment-apis?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=profile-readme-intro) for sales workflows and AI agents. Find work emails, validate existing email lists, enrich people and companies, and research hiring and advertising signals.
 
 [B2B enrichment API documentation](https://leadmagic.io/docs?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=profile-readme-intro) · [LeadMagic dashboard](https://app.leadmagic.io?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=profile-readme-intro) · [Pricing](https://leadmagic.io/pricing?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=profile-readme-intro)
