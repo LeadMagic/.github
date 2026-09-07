@@ -13,3 +13,7 @@ Examples are fictional unless an explicit public source is cited. See [PUBLICATI
 ## Repository presentation
 
 See [README and link-tracking conventions](DISCOVERABILITY.md) for consistent descriptions, topics, and UTM attribution across LeadMagic repositories.
+
+## License and contributions
+
+[MIT license](LICENSE) · [Third-party materials and contribution policy](LICENSE-NOTES.md). Reuse is allowed under the license; changes to this repository require maintainer review.
