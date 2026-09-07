@@ -1,8 +1,10 @@
 # LeadMagic: B2B Data Enrichment APIs and Developer Tools
 
-LeadMagic helps teams find work emails, validate existing email lists, enrich people and companies, and research hiring and advertising signals.
+LeadMagic provides [B2B data enrichment APIs](https://leadmagic.io/product/enrichment-apis?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=profile-readme-intro) for sales workflows and AI agents. Find work emails, validate existing email lists, enrich people and companies, and research hiring and advertising signals.
 
 [B2B enrichment API documentation](https://leadmagic.io/docs?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=profile-readme-intro) · [LeadMagic dashboard](https://app.leadmagic.io?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=profile-readme-intro) · [Pricing](https://leadmagic.io/pricing?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=profile-readme-intro)
+
+Explore the [Email Finder](https://leadmagic.io/product/email-finder?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=profile-readme-products) or read the [email validation API guide](https://leadmagic.io/docs/api-reference/email-validation?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=profile-readme-products) to choose the right workflow for your contact data.
 
 ## Choose an integration
 
